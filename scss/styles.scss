@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Raleway:400,700");
-@import "./partials/variable-colors.scss";
+@import "./partials/_variable-colors.scss";
 
 @mixin form {
   border: 1px solid $colorheader;

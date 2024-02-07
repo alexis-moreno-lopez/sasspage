@@ -1,9 +1,8 @@
 $light:white;
 $dark:black;
 
+$colorheader:#00c1db;
+$color-eclaircie: lighten($colorheader, 10%);
 
 $colorfooter:#008da0;
 $color-assombrie: darken($colorfooter, 10%);
-
-$colorheader:#00c1db;
-$color-eclaircie: lighten($colorheader, 10%);
